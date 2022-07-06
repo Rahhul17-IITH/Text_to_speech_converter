@@ -1,4 +1,4 @@
-# Python_project
+# Text_to_speech__converter
 The repositary consists of projects that are implemented using python
 
 In the attached, we have used tkinter and GTTs python modules for designing a gui and to convert the given text to speech respectively.
